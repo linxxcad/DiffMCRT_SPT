@@ -1,5 +1,7 @@
 # DiffMCRT_SPT
-A differentiable Monte Carlo ray tracing method for heliostat aiming optimization task of solar power tower system 
+A differentiable Monte Carlo ray tracing method for heliostat aiming optimization task of solar power tower system  
+The algorithm-related article has been submitted to the Applied Energy journal.  
+
 ## Operating instruction
 The packaged exe file is used in Windows, The ubuntu version is being packaged and will be uploaded soon  
 Configure the required environment   
